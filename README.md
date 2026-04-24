@@ -5,4 +5,7 @@ curated list of cybersecurity in different industries
 
 - [Trucking Industry Cybersecurity](TRUCKING-INDUSTRY.md)
 
+## Red Teaming Resources
+- [Red Teaming](READ-TEAMING.md)
+
 
